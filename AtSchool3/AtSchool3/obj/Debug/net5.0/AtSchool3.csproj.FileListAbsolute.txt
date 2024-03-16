@@ -1,0 +1,16 @@
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\bin\Debug\net5.0\AtSchool3.exe
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\bin\Debug\net5.0\AtSchool3.deps.json
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\bin\Debug\net5.0\AtSchool3.runtimeconfig.json
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\bin\Debug\net5.0\AtSchool3.runtimeconfig.dev.json
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\bin\Debug\net5.0\AtSchool3.dll
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\bin\Debug\net5.0\ref\AtSchool3.dll
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\bin\Debug\net5.0\AtSchool3.pdb
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\obj\Debug\net5.0\AtSchool3.csproj.AssemblyReference.cache
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\obj\Debug\net5.0\AtSchool3.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\obj\Debug\net5.0\AtSchool3.AssemblyInfoInputs.cache
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\obj\Debug\net5.0\AtSchool3.AssemblyInfo.cs
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\obj\Debug\net5.0\AtSchool3.csproj.CoreCompileInputs.cache
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\obj\Debug\net5.0\AtSchool3.dll
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\obj\Debug\net5.0\ref\AtSchool3.dll
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\obj\Debug\net5.0\AtSchool3.pdb
+D:\study\ute_ex\nam3\LTC#\AtSchool3\AtSchool3\obj\Debug\net5.0\AtSchool3.genruntimeconfig.cache
